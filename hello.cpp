@@ -8,7 +8,7 @@ int main() {
     printf("\b\b\b\b");
     printf("****\n");
     system ("clear");
-    printf("Abcg\n");
+    printf("Alex\n");
 
     return 0;
 }
